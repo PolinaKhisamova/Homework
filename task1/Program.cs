@@ -6,6 +6,7 @@ if(num1>num2)
 {
     Console.WriteLine("max - " + num1 + ", min - " + num2);
 }
-else{
+else
+{
     Console.WriteLine("max - " + num2 + ", min - " + num1);
 }
